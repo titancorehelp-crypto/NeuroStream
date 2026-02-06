@@ -1,0 +1,6 @@
+[
+  { "event": "message", "data": { "id": 1, "text": "Hello" } },
+  { "event": "ping", "data": { "time": 1675600000 } },
+  { "event": "message", "data": { "id": 2, "text": "World" } },
+  { "event": "update", "data": { "status": "completed" } }
+]
