@@ -1,0 +1,22 @@
+[
+  {
+    "event": "message",
+    "data": {
+      "user": { "id": 101, "name": "Rahul" },
+      "messages": [
+        { "id": 1, "text": "Hi" },
+        { "id": 2, "text": "How are you?" }
+      ]
+    }
+  },
+  {
+    "event": "message",
+    "data": {
+      "user": { "id": 102, "name": "Sarkar" },
+      "messages": [
+        { "id": 3, "text": "I am fine." },
+        { "id": 4, "text": "Thanks!" }
+      ]
+    }
+  }
+]
